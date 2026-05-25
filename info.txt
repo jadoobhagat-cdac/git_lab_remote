@@ -1,3 +1,1 @@
-Name = Jadoo Bhagat
-D.O.B = 24-05-1998
-Course = DAC (Advance Computing)
+Feature = 2026
